@@ -1,0 +1,3 @@
+SQL 
+FORMATO DE FECHA
+ FORMAT( GETDATE(), 'dd/MMM/yyyy', 'en-US' )
